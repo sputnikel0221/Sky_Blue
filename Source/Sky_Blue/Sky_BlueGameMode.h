@@ -13,6 +13,8 @@ class ASky_BlueGameMode : public AGameModeBase
 
 public:
 	ASky_BlueGameMode();
+	
+
 };
 
 
